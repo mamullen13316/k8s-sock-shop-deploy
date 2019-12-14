@@ -4,7 +4,7 @@ Modified K8S deploy file for microservices demo for compatibility with new API. 
 Clone the repo:
 https://github.com/microservices-demo/microservices-demo/
 
-Then replace /deploy/kubernetes/complete-demo.yaml with this one.  
+Then replace deploy/kubernetes/complete-demo.yaml with this one.  
 
 
 
